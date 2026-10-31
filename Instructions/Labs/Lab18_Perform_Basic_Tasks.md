@@ -106,6 +106,8 @@ Sales director wants to add additional fields for his own customer list screen:
 5. Shipping Agent Code
 
 6. Payment terms Code
+   
+7. Salesperson Code
 
 Select Done.
 
