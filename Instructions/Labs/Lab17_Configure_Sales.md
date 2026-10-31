@@ -177,7 +177,7 @@ You will perform
 5. Configure sales prices
    1. On the **Items** list page, select the **15” flat panel (CHW1002)**.
    2. To open the item card, select **Manage** and then select **Edit**.
-   3. On the opened item card, select **Prices & Discounts** and then select **Sales Prices**.
+   3. On the opened item card, from the Prices & Sales fastab and select **Sales Prices & Discounts** and **create new**. Then Choose **Create New Special Price**, click Ok
    4. On the **Sales Prices** page, create a new line as follows:
       1. In the **Sales Type** field enter **Customer Price Group**.
       2. In the **Sales Code** field, enter **EU**.
